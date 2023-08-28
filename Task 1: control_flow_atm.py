@@ -20,5 +20,6 @@ else:
 
 #Conditional flows with a bank ATM system.
 #Worked on an assignment where we understood bank ATMs using python and I got to build one myself.
-#The task was to make a pin number at a bank ATM where I used control flows for example: if the pin number is correct access to money. If not, cannot access money.
+#The task was to make a pin number at a bank ATM where I used control flows for example: if the pin number is correct access to money.
+#If not, cannot access money.
 #I eventually improved it by implementing a complete withdraw and deposit system with money which has a bank balance.
