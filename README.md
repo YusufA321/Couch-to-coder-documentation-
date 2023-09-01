@@ -7,4 +7,5 @@ Week 1: Laying the Foundations.
 Got an introduction to python worked with conditional logic and conditional flows. 
 Week 2: Expand your Horizons.
 Advanced data structures with lists, dictionaries, and loops.
-
+Week 3: Unlcoking the Power of Algorthms.
+3rd party packages, research techniques and functions. Solving real problems using python.
