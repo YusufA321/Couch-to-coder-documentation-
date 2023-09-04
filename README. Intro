@@ -1,4 +1,4 @@
-Couch to coder documentation
+.Couch to coder documentation
 I started my journey with coding using Python with Bright Network coding boot camp: Couch to coder.
 This was a great way to begin my journey into coding using python and to develop my skills for data analytics/data science. 
 
@@ -7,5 +7,7 @@ Week 1: Laying the Foundations.
 Got an introduction to python worked with conditional logic and conditional flows. 
 Week 2: Expand your Horizons.
 Advanced data structures with lists, dictionaries, and loops.
-Week 3: Unlcking the Power of Algorthms.
+Week 3: Unlocking the Power of Algorithms.
 3rd party packages, research techniques and functions. Solving real problems using python.
+Week 4: Dive into Data Analysis.
+Basic data analysis and read from files/write from files using python.
