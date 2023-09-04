@@ -19,7 +19,7 @@ print(total)
 for river in rivers:
     print(river["name"])
 
-#print out anc calculate the mean of the rivers.
+#print out and calculate the mean of the rivers.
 mean_length = total / len(rivers)
 print(mean_length)
 
