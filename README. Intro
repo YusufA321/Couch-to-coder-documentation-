@@ -11,3 +11,14 @@ Week 3: Unlocking the Power of Algorithms.
 3rd party packages, research techniques and functions. Solving real problems using python.
 Week 4: Dive into Data Analysis.
 Basic data analysis and read from files/write from files using python. Also used pandas and matplotlib to make pie charts and bar charts.
+
+
+Task 4: Data Analysis of Volkswagen cars. 
+I answered the following questions:
+1. What is the most expensive VW car listed?
+2. Find all the VW Golf models. What is their average price?
+3. What is the average milage for VW Polo models registered in 2020?
+Also I created a pie chart and bar chart using pandas and matplotlib. 
+From the data analysis of the Volkswagen cars I made a pie chart and bar chart.
+The pie chart highlighting the distribution of the fuel types in the dataset.
+The bar chart highlighting the average mileage for Volkswagen cars. 
