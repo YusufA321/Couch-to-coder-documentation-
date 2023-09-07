@@ -14,7 +14,7 @@ with open("vw.csv", "r", encoding="utf-8") as csvfile:
 
 
 
-# 1. What is the most expensive VW car listed?
+#1. What is the most expensive VW car listed?
 expensive_car = cars[0]
 
 for car in cars:
@@ -23,7 +23,7 @@ for car in cars:
 
 print(expensive_car) 
 
-# 2. Find all the VW Golf models. What is their average price?
+#2. Find all the VW Golf models. What is their average price?
 total_price = 0
 total_golf = 0
 
@@ -39,7 +39,7 @@ average_price = total_price / total_golf
 print(average_price)
 
 
-# 3. What is the average milage for VW Polo models registered in 2020?
+#3. What is the average milage for VW Polo models registered in 2020?
 total_mileage = 0
 total_polo = 0
 
@@ -55,8 +55,8 @@ average_mileage = total_mileage / total_polo
 print(average_mileage)
 
 
-# Extension: Using pandas and matplotlib , create the following:
-# 1. A pie chart showing the distribution between fuel types.
+#Extension: Using pandas and matplotlib , create the following:
+#1. A pie chart showing the distribution between fuel types.
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -69,7 +69,7 @@ plt.pie(distribution_of_fueltypes.model, labels=distribution_of_fueltypes.fuelTy
 plt.show()
 
 
-# 2. A bar chart showing the average mileage for each model. (You need to research how can you calculate average using pandas!)
+#2. A bar chart showing the average mileage for each model.
 cars = pd.read_csv("vw.csv")
 
 average_mileage = cars.groupby("model")[['mileage']].mean().sort_values('mileage', ascending=False).reset_index()
