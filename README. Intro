@@ -10,4 +10,4 @@ Advanced data structures with lists, dictionaries, and loops.
 Week 3: Unlocking the Power of Algorithms.
 3rd party packages, research techniques and functions. Solving real problems using python.
 Week 4: Dive into Data Analysis.
-Basic data analysis and read from files/write from files using python.
+Basic data analysis and read from files/write from files using python. Also used pandas and matplotlib to make pie charts and bar charts.
