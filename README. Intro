@@ -18,7 +18,9 @@ I answered the following questions:
 1. What is the most expensive VW car listed?
 2. Find all the VW Golf models. What is their average price?
 3. What is the average milage for VW Polo models registered in 2020?
+
 Also I created a pie chart and bar chart using pandas and matplotlib. 
-From the data analysis of the Volkswagen cars I made a pie chart and bar chart.
 The pie chart highlighting the distribution of the fuel types in the dataset.
 The bar chart highlighting the average mileage for Volkswagen cars. 
+
+This can be seen in Figure 1 and Figure 2.
